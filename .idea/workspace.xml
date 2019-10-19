@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45c04fdf-ecd6-4fde-b477-f1c7814766bd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jogo_tenis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jogo_tenis.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="800" />
+    <option name="height" value="469" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dojo_tenis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dojo_tenis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dojo_tenis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dojo_tenis" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for jogo_tenis.teste_tenis">
+    <configuration name="Unittests for jogo_tenis.teste_tenis" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dojo_tenis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;jogo_tenis.teste_tenis&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for jogo_tenis.teste_tenis.test_framework" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dojo_tenis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;jogo_tenis.teste_tenis.test_framework&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for jogo_tenis.teste_tenis.teste_desempate" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dojo_tenis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;jogo_tenis.teste_tenis.teste_desempate&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for jogo_tenis.teste_tenis.teste_vitoria_4jogos" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dojo_tenis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;jogo_tenis.teste_tenis.teste_vitoria_4jogos&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in jogo_tenis.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dojo_tenis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/jogo_tenis.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for jogo_tenis.teste_tenis" />
+        <item itemvalue="Python tests.Unittests for jogo_tenis.teste_tenis.teste_desempate" />
+        <item itemvalue="Python tests.Unittests for jogo_tenis.teste_tenis.test_framework" />
+        <item itemvalue="Python tests.Unittests in jogo_tenis.py" />
+        <item itemvalue="Python tests.Unittests for jogo_tenis.teste_tenis.teste_vitoria_4jogos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 11m 55s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 12m 59s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 29m 32s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 36m 42s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 37m 29s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 38m 37s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 44m 22s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 45m 44s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 47m 33s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_jogo_tenis_teste_tenis - 2019.10.19 at 11h 52m 51s.xml">
+      <configuration name="Unittests for jogo_tenis.teste_tenis" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.100105375" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jogo_tenis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
